@@ -22,6 +22,7 @@
 
 ## 💻 Tecnologia utilizada
 -JAVA
+
 -MYSQL
 
 
@@ -30,6 +31,7 @@
 ## 🔧 Ferramentas
 
 -Eclipse - Editor de código recomendado
+
 -COMMAND LINE - Para criar o banco de dados.
 
 ---
