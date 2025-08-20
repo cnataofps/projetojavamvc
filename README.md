@@ -3,7 +3,9 @@
 
 ### 📌 Descrição
 -Este projeto é um simples cadastro de produtos integrado com banco de dados.
+
 -Ele permite que os usuários cadastrem de forma rápida e fácil produtos.
+
 -Ideal para aprender e praticar conceitos básicos de java e banco de dados e servi como uma base para projetos mais complexos de cadastros de usuários e produtos.
 
 ---
