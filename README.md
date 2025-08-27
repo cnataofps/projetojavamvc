@@ -1,5 +1,5 @@
 
-# 📝 Tela de Criação de Conta
+# 📝 Tela de Cadastro de Produtos.
 
 ### 📌 Descrição
 -Este projeto é um simples cadastro de produtos integrado com banco de dados.
