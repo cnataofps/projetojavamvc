@@ -32,11 +32,9 @@
 
 ## 🔧 Ferramentas
 
--Eclipse
+-Eclipse(Editor de código recomendado)
 
-- Editor de código recomendado
-
--COMMAND LINE - Para criar o banco de dados.
+-COMMAND LINE(Para criar o banco de dados.)
 
 ---
 
